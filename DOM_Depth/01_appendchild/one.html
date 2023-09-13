@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+
+    <meta charset = "UTF-8">
+    <title>DOM learning</title>
+    <style>
+        .bg-black {
+            background-color: #212121;
+            color: #fff;
+
+        }
+    </style>
+</head>
+
+<body class = "bg-black">
+    <ul class= "language">
+        <li>Javascript</li>
+    </ul>
+</body>
+<script>
+    function addLanguage(languageName) {
+       const li = document.createElement('li')
+       li.innerHTML = `${languageName}`
+       document.querySelector('.language').
+       appendChild(li)
+    }
+addLanguage("CSS")
+addLanguage("typescript")
+</script>
+
+</html>
