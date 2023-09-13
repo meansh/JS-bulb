@@ -1,4 +1,4 @@
-var bulb = document.querySelector("#bulb")
+/*var bulb = document.querySelector("#bulb")
 var btn = document.querySelector('button')
 
 var flag = 0
@@ -11,3 +11,6 @@ btn.addEventListener("click", ()=>{
         flag = 0
     }
 })
+*/
+var doc =  document.querySelector("#box")
+doc.innerHTML = "<h1>Hello</h1>"

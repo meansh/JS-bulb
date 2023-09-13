@@ -1,0 +1,38 @@
+--TCS
+
+Focused on implementation of a money exchange handling system for a major banking client.
+
+Our client is engaged in large growth initiative, focused in the areas of savings, pensions and real estate. 
+
+My main area of activity is writing functional concepts for national and international payments, based on the design provided by the client and layout developed by our business architects. 
+
+Our project got live in Switzerland on January 31, 2022 with a truly commendable success, and cordial appreciation by customers.
+
+Effectively handled the functional development of 14 different modules of payment transfer. 
+
+Developed gaps to generate bookings of payments received from different channels, performed code reviews.
+
+Modified the database structure from information interpreted by design, planned storage requirements for the database system. 
+
+Organized sessions for preparing juniors to be able to write JUnit test cases for unit testing of different modules. 
+Involved in fixing bugs based on the client requirements, and sending releases in parts as planned.
+
+Organized sessions for preparing juniors to be able to write JUnit test cases for unit testing of different modules. 
+
+
+About Project:
+
+1. Focused on implementation of a money exchange handling system for a major banking client Our client is engaged in large growth initiative, focused in the areas of savings, pensions and real estate. 
+
+2. My main area of activity is writing functional concepts for national and international payments, based on the design provided by the client and layout developed by our business architects. 
+
+3. Our project got live in Switzerland on March 31, 2018 with a truly commendable success, and cordial appreciation by customers Effectively handled the functional development of 14 different modules of payment transfer. 
+
+4. Developed gaps to generate bookings of payments received from different channels, performed code reviews Modified the database structure from information interpreted by design, planned storage requirements for the database system. 
+
+5. Organized sessions for preparing juniors to be able to write JUnit test cases for unit testing of different modules. Involved in fixing bugs based on the client requirements, and sending releases in parts as planned.
+
+
+Reason for leaving
+
+The emergence of a new opportunity to work in a different work environment, earn better compensation and  to increase my portfolio and technical skills.
